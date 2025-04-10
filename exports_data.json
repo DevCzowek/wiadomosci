@@ -582,6 +582,18 @@
           "file_path": "servers\\igla\\04.10.2025\\igla.com - Kanały głosowe - gadanue [1355845474464174120].html"
         }
       ]
+    },
+    "zadupie": {
+      "04.10.2025": [
+        {
+          "channel_name": "ＺＡＤＵＰＩＥ - Kanały tekstowe - 🎵 [1318074780053803028]",
+          "file_path": "servers\\zadupie\\04.10.2025\\ＺＡＤＵＰＩＥ - Kanały tekstowe - 🎵 [1318074780053803028].html"
+        },
+        {
+          "channel_name": "ＺＡＤＵＰＩＥ - Kanały tekstowe - 📋 [1318057082586529876]",
+          "file_path": "servers\\zadupie\\04.10.2025\\ＺＡＤＵＰＩＥ - Kanały tekstowe - 📋 [1318057082586529876].html"
+        }
+      ]
     }
   }
 }
