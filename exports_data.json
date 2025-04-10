@@ -569,7 +569,76 @@
   },
   "servers": {
     "chinskie": {
-      "04.10.2025": []
+      "04.10.2025": [
+        {
+          "channel_name": "Chinskie community - inne - tyralnia [1350124477849010206]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - inne - tyralnia [1350124477849010206].html"
+        },
+        {
+          "channel_name": "Chinskie community - inne - 🎥・klipy [1340754830842658902]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - inne - 🎥・klipy [1340754830842658902].html"
+        },
+        {
+          "channel_name": "Chinskie community - inne - 😜・memy [1340754830842658903]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - inne - 😜・memy [1340754830842658903].html"
+        },
+        {
+          "channel_name": "Chinskie community - inne - 🧾・chat [1340754830842658901]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - inne - 🧾・chat [1340754830842658901].html"
+        },
+        {
+          "channel_name": "Chinskie community - Kanały głosowe - 🔊・cs-go [1340754830955909165]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - Kanały głosowe - 🔊・cs-go [1340754830955909165].html"
+        },
+        {
+          "channel_name": "Chinskie community - Kanały głosowe - 🔊・fivem [1340754830955909167]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - Kanały głosowe - 🔊・fivem [1340754830955909167].html"
+        },
+        {
+          "channel_name": "Chinskie community - Kanały głosowe - 🔊・fortnite [1350120476466221247]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - Kanały głosowe - 🔊・fortnite [1350120476466221247].html"
+        },
+        {
+          "channel_name": "Chinskie community - Kanały głosowe - 🔊・tyralnia [1340754830955909166]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - Kanały głosowe - 🔊・tyralnia [1340754830955909166].html"
+        },
+        {
+          "channel_name": "Chinskie community - pomoc - ❓・propozycje-do-serwera [1340754830842658906]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - pomoc - ❓・propozycje-do-serwera [1340754830842658906].html"
+        },
+        {
+          "channel_name": "Chinskie community - pomoc - 🔴・zgłoś-cheatera [1340754830842658905]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - pomoc - 🔴・zgłoś-cheatera [1340754830842658905].html"
+        },
+        {
+          "channel_name": "Chinskie community - pomoc - 🧨・faq [1340754830842658907]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - pomoc - 🧨・faq [1340754830842658907].html"
+        },
+        {
+          "channel_name": "Chinskie community - vip - 🔊・głosowy vip [1340754831094186048]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - vip - 🔊・głosowy vip [1340754831094186048].html"
+        },
+        {
+          "channel_name": "Chinskie community - ważne - prace-na-event [1346255784035483788]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - ważne - prace-na-event [1346255784035483788].html"
+        },
+        {
+          "channel_name": "Chinskie community - ważne - 🎆・eventy [1340754830842658899]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - ważne - 🎆・eventy [1340754830842658899].html"
+        },
+        {
+          "channel_name": "Chinskie community - ważne - 💥・ogłoszenia [1340754830842658898]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - ważne - 💥・ogłoszenia [1340754830842658898].html"
+        },
+        {
+          "channel_name": "Chinskie community - ważne - 🔴・regulamin [1340754830678949897]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - ważne - 🔴・regulamin [1340754830678949897].html"
+        },
+        {
+          "channel_name": "Chinskie community - witamy - 🛫・witam [1340754830678949889]",
+          "file_path": "servers\\chinskie\\04.10.2025\\Chinskie community - witamy - 🛫・witam [1340754830678949889].html"
+        }
+      ]
     },
     "igla": {
       "04.10.2025": [
